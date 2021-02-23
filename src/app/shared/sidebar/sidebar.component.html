@@ -1,0 +1,13 @@
+<!--Sidebar-->
+<div class="bg-dark border-right p-3" id="sidebar">
+    <h3 class="text-light">Gifs-App</h3>
+    <hr class="text-white">
+    <h6 class="text-light">búsquedas recientes...</h6>
+    <hr class="text-white">
+    <div class="list-group lis-reset">
+        <!--Uso de pibe para capitalizar correctamente-->
+        <a href="#" class="list-group-item list-group-item-action"  *ngFor="let gif of historial" (click)="buscar(gif)">{{gif | titlecase}}</a>
+
+    </div>
+</div>
+<!--Fin sidebar-->
