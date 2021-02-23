@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
+Web Application: https://amazing-mclean-2b86d0.netlify.app/
+
 # Install dependencies
 
 Run `npm install`
