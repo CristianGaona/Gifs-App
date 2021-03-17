@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
-Web Application: https://amazing-mclean-2b86d0.netlify.app/
+Web Application: https://amazing-mclean-2b86d0.netlify.app/ (Search Gifs)
 ![image](https://user-images.githubusercontent.com/18333507/111517374-fee52500-8722-11eb-96a7-2229810808a7.png)
 # Install dependencies
 
